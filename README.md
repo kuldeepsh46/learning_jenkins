@@ -1,4 +1,4 @@
-Testing the webhook for first time.
+Testing the webhook for first time
 # Learning Jenkins
 This is the repository for the LinkedIn Learning course Learning Jenkins. The full course is available from [LinkedIn Learning][lil-course-url].
 
